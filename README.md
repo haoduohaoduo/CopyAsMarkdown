@@ -1,6 +1,9 @@
 Copy As Markdown
 ================
 
+![image](https://user-images.githubusercontent.com/31056595/50394718-3b22b880-079a-11e9-9bf0-4736201f5067.png)
+
+
 This is a Chrome Extension used to copy the element in current page as markdown format.
 
 ## Usage
